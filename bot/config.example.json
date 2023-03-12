@@ -174,7 +174,7 @@
       "description": "Sounds from our discord!",
       "emoji": "995755696916287498",
       "variants": {
-		"Babablooey": "discord.babablooey.opus",
+		"Babablooey": "discord_babablooey.opus",
 		"Blender": "discord_blender.opus",
 		"Bloodbourne": "discord_bloodbourne.opus",
 		"Boof": "discord_boof.opus",
@@ -184,7 +184,7 @@
 		"Cornbread": "discord_cornbread.opus",
 		"Crack": "discord_crack.opus",
 		"FFFUCK": "discord_fffuck.opus",
-		"GetHim": "discord_gethum.opus",
+		"GetHim": "discord_gethim.opus",
 		"GIJoe": "discord_gijoe.opus",
 		"GotYouCovered": "discord_gotyoucovered.opus",
 		"HardCry": "discord_hardcry.opus",
@@ -198,7 +198,14 @@
 		"LogYeet": "discord_logyeet.opus",
 		"LoveCorn": "discord_lovecorn.opus",
 		"McCheck": "discord_mccheck.opus",
-		"OhBoyGuysHereWeGo": "discord_ohboyguysherewego.opus",
+		"OhBoyGuysHereWeGo": "discord_ohboyguysherewego.opus"
+	  }
+	},
+	"discord2": {
+      "name": "More Discord",
+      "description": "Sounds from our discord!",
+      "emoji": "995755696916287498",
+      "variants": {
 		"Ohuh": "discord_ohuh.opus",
 		"Ok": "discord_ok.opus",
 		"Pog": "discord_pog.opus",
