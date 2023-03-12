@@ -195,10 +195,10 @@
 		"KempScream": "discord_kempscream.opus",
 		"KillTheChild": "discord_killthechild.opus",
 		"LogScreach": "discord_logscreach.opus",
+		"LogScream": "discord_logscream.opus",
 		"LogYeet": "discord_logyeet.opus",
 		"LoveCorn": "discord_lovecorn.opus",
-		"McCheck": "discord_mccheck.opus",
-		"OhBoyGuysHereWeGo": "discord_ohboyguysherewego.opus"
+		"McCheck": "discord_mccheck.opus"
 	  }
 	},
 	"discord2": {
@@ -206,6 +206,7 @@
       "description": "Sounds from our discord!",
       "emoji": "995755696916287498",
       "variants": {
+		"OhBoyGuysHereWeGo": "discord_ohboyguysherewego.opus",
 		"Ohuh": "discord_ohuh.opus",
 		"Ok": "discord_ok.opus",
 		"Pog": "discord_pog.opus",
