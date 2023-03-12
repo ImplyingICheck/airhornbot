@@ -169,7 +169,7 @@
         "happy": "birthday_happy.ogg"
       }
     },
-	"discord": {
+	"dc": {
       "name": "Discord",
       "description": "Sounds from our discord!",
       "emoji": "995755696916287498",
@@ -201,7 +201,7 @@
 		"McCheck": "discord_mccheck.opus"
 	  }
 	},
-	"discord2": {
+	"dc2": {
       "name": "More Discord",
       "description": "Sounds from our discord!",
       "emoji": "995755696916287498",
@@ -212,15 +212,80 @@
 		"Pog": "discord_pog.opus",
 		"PotatoDetective": "discord_potatodetective.opus",
 		"Reehaw": "discord_reehaw.opus",
+		"Scarace": "discord_scarace.opus",
 		"Skippy": "discord_skippy.opus",
 		"Spoon": "discord_spoon.opus",
 		"StompTheCromps": "discord_stompthecromps.opus",
 		"TeaKettle": "discord_teakettle.opus",
-		"Ubuh": "discord_Ubuh.opus",
+		"Ubuh": "discord_ubuh.opus",
 		"What": "discord_what.opus",
 		"Wheeze": "discord_wheeze.opus",
         "Yes": "discord_yes.opus"
       }
-    }
+    },
+	"rand": {
+      "name": "Random Funny Sounds",
+      "description": "Sounds we think are funny",
+      "emoji": "585642166433349658",
+      "variants": {
+		"2319": "random_2319.opus",
+		"Apple": "random_apple.opus",
+		"Ayopizzahere": "random_ayopizzahere.opus",
+		"Baka": "random_baka.opus",
+		"Bambi": "random_bambi.opus",
+		"Bastard": "random_bastard.opus",
+		"Beans": "random_beans.opus",
+		"Bippy": "random_bippy.opus",
+		"Boobies": "random_boobies.opus",
+		"Boop": "random_boop.opus",
+		"ClickThis": "random_clickthis.opus",
+		"CutG": "random_cutg.opus",
+		"DestroyMyLaptop": "random_destroymylaptop.opus",
+		"Eevee": "random_eevee.opus",
+		"Eggs": "random_eggs.opus",
+        "FatFuck": "random_fatfuck.opus",
+		"Gay": "random_gay.opus",
+		"GoBack": "random_goback.opus",
+		"Hate": "random_hate.opus",
+		"Kakarot": "random_kakarot.opus",
+		"losesomeweight": "random_losesomeweight.opus",
+		"MickeyMouse": "random_MickeyMouse.opus",
+		"Myself": "random_myself.opus",
+		"PogChamp": "random_pogchamp.opus",
+		"PreciateIt": "random_preciateit.opus",
+        "FatFuck": "random_fatfuck.opus"
+	  }
+	},
+	"rand2": {
+      "name": "More Random Funny Sounds",
+      "description": "Sounds we think are funny",
+      "emoji": "585642166433349658",
+      "variants": {
+		"Sayonara": "random_sayonara.opus",
+		"ScienceTeam": "random_scienceteam.opus",
+		"TimeToNut": "random_timetonut.opus",
+		"Tomorrow": "random_tomorrow.opus",
+		"Traps": "random_traps.opus",
+		"TrioTrioTrio": "random_triotriotrio.opus",
+		"Tuba": "random_tuba.opus",
+		"Vomit": "random_vomit.opus",
+		"WallyWorld": "random_wallyworld.opus",
+		"Walmart": "random_walmart.opus",
+		"WayYouCame": "random_wayyoucame.opus"
+	  }
+	},
+	"train": {
+      "name": "More Random Funny Sounds",
+      "description": "Sounds we think are funny",
+      "emoji": "585642166433349658",
+      "variants": {
+		"Day": "train_day.opus",
+		"Feet": "train_feet.opus",
+		"Hips": "train_hips.opus",
+		"Lav": "train_lav.opus",
+		"Nae": "train_nae.opus",
+		"ThatsTrue": "train_thatstrue.opus"
+	  }
+	}
   }
 }
