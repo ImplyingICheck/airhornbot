@@ -70,6 +70,6 @@ export class SoundboardCommand extends DiscordCommand {
       })
     });
     const fullComponents = convertButtonsIntoButtonGrid(buttons);
-    return discordCommandResponder.sendBackMessage("Here's the menu for that sound.", true, fullComponents);
+    return discordCommandResponder.sendBackMessage("Here's the menu for that sound.", false, fullComponents);
   }
 }
